@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/nlindley/highland-csv-demo#readme",
   "dependencies": {
-    "csv-parse": "^1.0.0",
+    "csv-parse": "^4.6.5",
     "highland": "^2.5.1"
   }
 }
